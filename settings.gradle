@@ -1,0 +1,3 @@
+include ':app'
+include ':benchmark'
+rootProject.name = "SampleCleanCode 4"
